@@ -6,7 +6,11 @@
    
    
    </head>
-
+  <form>
+  <input="text " placeholder=" username " name="gopaloswal25" required  >
+  <input="text " placeholder="password"  name="viceversa"  required>
+  <button type="submit" >Login</button>
+  </form>
 
   <body>
   
