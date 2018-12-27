@@ -1,39 +1,59 @@
 <!DOCTYPE HTML>
  <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
-.color-text
-{
+.color-text{
 color:red;
 font-size:50px;
 font-family:Lobster;
+}
+.color-user{
+background-color:yello;
+font-color:cyan; 
+font-size:30px; 
+font-family:Sans-Serif;
 }
 </style>
 
 <html>
 <head>
-   <title> admin panel </title>  
+  
+
+
+ <title> admin panel </title>
+  
    </head>
   <body>
-  <center>
+  
+<center>
 
 
 <img src="http://greenfilmnet.org/wp-content/uploads/welcome-2-1030x397.jpg" width=300px height=300px >
 
 
-  <p class="color-text">Hello User</p></ br>
- 
+  <p class="color-text">Hello User</p></ br></ br>
+  
+<p class="color-user" > Choose your account </p> </br>
+
 
 
  <form>
-  <LABEL for="username">username</LABEL>
+  <input type="checkbox" name="user" value="Administrator" required>Administrator </ br></ br> </ br>
+  <input type="checkbox" name="user" value = "local" >Local </ br></ br>
+
+</form>
+<form>
+<LABEL for="username">username</LABEL>
  </ br> </br> </br>
+
 
 
 <input type="text " placeholder = " username "  required  ></br></br> </ br>
 
 
 
+
   <LABEL for="password">password</LABEL>
+
   </br></br></br>
 
 
