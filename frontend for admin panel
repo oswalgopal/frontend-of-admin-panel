@@ -1,18 +1,6 @@
 <!DOCTYPE HTML>
  <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
-<style>
-.color-text{
-color:red;
-font-size:50px;
-font-family:Lobster;
-}
-.color-user{
-background-color:yello;
-font-color:cyan; 
-font-size:30px; 
-font-family:Sans-Serif;
-}
-</style>
+
 
 <html>
 <head>
