@@ -5,8 +5,39 @@ font-size:50px;
 font-family:Lobster;
 }
 .color-user{
-background-color:yello;
-font-color:cyan; 
-font-size:30px; 
-font-family:Sans-Serif;
+background-color:yellow;
+color: currentColor; 
+font-size: 30px ; 
+font-family: Sans-Serif ; 
+}
+
+.box{
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+
+}
+
+
+body{
+    background-image: url(' https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS9WqEN7QSXA13ceq6NJhWqW0EF8c1-iOtB28bhVk0AnAHDddF ') ; 
+    background-repeat: no-repeat ;
+    background-size:1700px ;  
+}
+    
+
+
+.color_text{
+    color: papayawhip;
+    border-bottom: 2px solid powderblue;
+    border-right: 2px solid powderblue;
+    border-left: 2px solid powderblue;
+    border-top: 2px solid powderblue ; 
+    padding: 4px 4px 4px 4px ;
+    position: absolute;
+    top: ;
+    left: ; 
+    border-radius: 3px ; 
+
 }
